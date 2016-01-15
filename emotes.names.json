@@ -100,6 +100,7 @@
     "brock1": "brock1",
     "brock2": "brock2",
     "brock3": "brock3",
+	"brock4": "brock4",
     "ts": ":ts:",
     "bs": ":bs:",
     "hitler1": "hitler1",
@@ -205,5 +206,11 @@
 	"goldberg1": "goldberg1",
 	"goldberg2": "goldberg2",
 	"goldberg3": "goldberg3",
-	"goldberg4": "goldberg4"
+	"goldberg4": "goldberg4",
+	"pika1": "pika1",
+	"angle1": "angle1",
+	"angle2": "angle2",
+	"angle3": "angle3",
+	"angle4": "angle4",
+	"angle5": "angle5"
 }
